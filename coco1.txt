@@ -1,0 +1,5 @@
+person
+passenger inside bus
+driver
+empty seat
+conductor
